@@ -1,5 +1,5 @@
 # Victor Franco
-[![Linkedin Badge](https://img.shields.io/badge/-Victor_Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-franco-7b8a461b2/)](https://www.linkedin.com/in/victor-franco-7b8a461b2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorf05/)](https://www.linkedin.com/in/victorf05/)
 [![Codewars Badge](https://www.codewars.com/users/VictorF05/badges/micro)](https://www.codewars.com/users/VictorF05)
 
 ## Olá, 
