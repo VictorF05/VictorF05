@@ -3,7 +3,7 @@
 [![Codewars Badge](https://www.codewars.com/users/VictorF05/badges/micro)](https://www.codewars.com/users/VictorF05)
 
 ## Olá, 
-Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
+Meu nome é Víctor Franco e eu sou um desenvolvedor Backend.
 
 <p align="justify">
   <a href="https://github.com/VictorF05/github-readme-stats">
