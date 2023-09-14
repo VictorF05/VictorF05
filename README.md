@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Victor_Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorf05/)](https://www.linkedin.com/in/victorf05/)
 
 ## Olá, 
-Meu nome é Víctor Franco e eu sou um desenvolvedor Backend.
+Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
 
 <p align="justify">
   <a href="https://github.com/VictorF05/github-readme-stats">
