@@ -8,7 +8,7 @@ Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
   <a href="https://github.com/VictorF05/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=VictorF05&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+      [![VictorF05 GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorF05)](https://github.com/victorf05/github-readme-stats)
     />
   </a>
    <a href="https://github.com/VictorF05/github-readme-stats">
