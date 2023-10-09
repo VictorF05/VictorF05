@@ -8,8 +8,9 @@ Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
   <a href="https://github.com/VictorF05/github-readme-stats">
     <img
       height="150"
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+     
     />
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </a>
    <a href="https://github.com/VictorF05/github-readme-stats">
     <img
