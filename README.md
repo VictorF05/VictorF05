@@ -4,7 +4,7 @@
 ## Olá, 
 Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorf05)](https://github.com/victorf05/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorf05&show_icons=true&theme=radical)](https://github.com/victorf05/github-readme-stats)
 
 ### Technologies:
 <div style="display: inline_block"><br>
