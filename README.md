@@ -10,7 +10,8 @@ Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
       height="150"
      
     />
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </a>
    <a href="https://github.com/VictorF05/github-readme-stats">
     <img
