@@ -1,25 +1,10 @@
 # Víctor Franco
 [![Linkedin Badge](https://img.shields.io/badge/-Victor_Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorf05/)](https://www.linkedin.com/in/victorf05/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Olá, 
 Meu nome é Víctor Franco e eu sou um desenvolvedor Web Fullstack.
 
-<p align="justify">
-  <a href="https://github.com/VictorF05/github-readme-stats">
-    <img
-      height="150"
-     
-    />
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-   <a href="https://github.com/VictorF05/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorF05&layout=compact&theme=radical" />
-  </a>  
-</p>
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorf05)](https://github.com/victorf05/github-readme-stats)
 
 ### Technologies:
 <div style="display: inline_block"><br>
