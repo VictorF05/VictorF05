@@ -5,7 +5,7 @@
 
 ### Desenvolvedor Backend
 
-Sou um desenvolvedor em transição de carreira focado em soluções de Backend. Atualmente, trabalho como Programador Junior II na Digidata, atuando principalmente com Meta4/Peoplenet, além de SQL, Java e JavaScript. Sou formado em análise e desenvolvimento de sistemas e também possuo pós-graduação em Desenvolvimento Full Stack.
+Sou um desenvolvedor em transição de carreira focado em soluções de Backend. Atualmente, trabalho como Programador Junior II na Digidata, atuando principalmente com Meta4/Peoplenet, além de SQL, JavaServer Pages e JavaScript. Sou formado em análise e desenvolvimento de sistemas e também possuo pós-graduação em Desenvolvimento Full Stack.
 
 ---
 
